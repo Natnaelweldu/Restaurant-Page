@@ -13,14 +13,14 @@ export default function domRewrite(page) {
                     <i class="fas fa-map-marker-alt"></i>
                     <div class="content">
                         <h3>Location</h3>
-                        <p>123 Culinary Street<br>New York, NY 10001</p>
+                        <p>Awra Street<br>Addis Abeba, Bole</p>
                     </div>
                 </div>
                 <div class="info-item">
                     <i class="fas fa-phone"></i>
                     <div class="content">
                         <h3>Phone</h3>
-                        <p>+1 (212) 555-0123</p>
+                        <p>+251 992673723</p>
                     </div>
                 </div>
                 <div class="info-item">
